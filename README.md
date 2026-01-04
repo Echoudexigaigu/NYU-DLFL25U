@@ -1,4 +1,4 @@
-# NYU Introduction to Deep Learning, Fall 2025, Undergrad edition (NYU-DLFL25U)
+# NYU introduction to Deep Learning, Fall 2025, Undergrad edition (NYU-DLFL25U)
 
 This repository hosts my new course, introduction to Deep Learning research for undergraduates.
 The aim of this course is to get the students fluent in reasoning, using:
