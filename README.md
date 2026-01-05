@@ -1,20 +1,15 @@
 # NYU introduction to Deep Learning, Fall 2025, Undergrad edition (NYU-DLFL25U)
 
 This repository hosts my new course, introduction to Deep Learning research for undergraduates.
-The aim of this course is to get the students fluent in reasoning, using:
+More info can be found on the [companion web site](https://atcold.github.io/NYU-DLFL25U/).
 
- - maths (linear algebra, calculus, logic),
- - diagrams and schematics (abstract graphical language),
- - graphs (function plotting and asymtotic behaviour),
- - physics (reducing systems to their base parts to identify emerging collective behaviours), and
- - coding (empirical verification of proposed hypothesis).
-
-A playlist with all lecture will eventually come online as companion to this repo and its website.
 This repo will host:
 
- - said website (with a table of contents and suggested readings), 
- - the code of the best final projects created by the students, and
+ - said website (with a table of contents and suggested readings),
+ - two notebooks written live in class,
+ - the code of selected final projects created by the students, and
  - the project description and key findings (as part of the website).
+
 
 ## Micrograd lectures
 
@@ -27,3 +22,14 @@ pip install graphviz
 ```
 
 As self-study exercise, you may want to read and understand all the source code found at [karpathy/micrograd/micrograd](https://github.com/karpathy/micrograd/tree/master/micrograd).
+
+
+## Selected final projects
+
+Follows a list of folder names, project titles and descriptions for some of the students' final projects I deemed interesting.
+I suspect most of these projects have been put together with help of a large language model, yet, if the research question and findings are sufficiently solid, I think it's worth checking them out.
+
+The project order reflects the student's total score in the course.
+
+ - [`template`](projects/template/notebook.ipynb): _Project template directory_
+    - A sample project structure demonstrating how students can add their contribution via PR.
